@@ -57,7 +57,7 @@ console.log(d1.period);
 
 
 // Create a new roar method for the tyrannosaurus.  When called, return "RAWERSRARARWERSARARARRRR!" Log the result.
-console.log(d1.roar);
+console.log(d1.roar());
 
 
 // ==== Arrays ====
